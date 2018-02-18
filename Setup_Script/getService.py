@@ -4,7 +4,7 @@ import os
 #Update IP
 ip = "35.167.152.77"
 #Update Team name
-team = "kselladu@asu.edu"
+team = "pgunaraj@asu.edu"
 i = iCTF("http://%s/" % ip)
 #Update Password
 t = i.login(team,"3VXEHUbdM4FG")
