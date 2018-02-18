@@ -29,7 +29,7 @@ def runExploit(path,t):
 									print t.submit_flag(flags)						
 if __name__ == '__main__':
 	ip = "35.167.152.77"
-	team = "kselladu@asu.edu"
+	team = "pgunaraj@asu.edu"
 	i = iCTF("http://%s/" % ip)
 	t = i.login(team,"3VXEHUbdM4FG")
 	i = 0
